@@ -26,7 +26,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    String websiteURL = "https://coupon.technovedant.com/"; // sets web url
+    String websiteURL = "https://app-techsolutions.com/"; // sets web url
     private WebView webview;
 
     @Override
@@ -80,7 +80,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    String websiteURL = "https://coupon.technovedant.com/"; // sets web url
+    String websiteURL = "https://app-techsolutions.com/"; // sets web url
     private WebView webview;
 
     @Override
